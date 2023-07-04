@@ -34,3 +34,7 @@ validateEAN("4003301018392") // false
 - ✅ DONE
 
 ## Plans
+
+- ⚠ '9783815820865 should return true'
+- ⚠ '9783815820864 should return false'
+- ⚠ '9783827317100 should return true'
