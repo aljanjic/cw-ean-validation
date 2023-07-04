@@ -37,4 +37,4 @@ validateEAN("4003301018392") // false
 
 - ✅ '9783815820865 should return true'
 - ✅'4003301018392 should return false'
-- ⚠ '9783827317100 should return true'
+- ✅ '9783827317100 should return true'
