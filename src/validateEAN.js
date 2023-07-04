@@ -1,5 +1,5 @@
 function validateEAN() {
-  return 'hello';
+  return true;
 }
 
 module.exports = validateEAN;
